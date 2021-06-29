@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+certifi==2021.5.30
+chardet==4.0.0
+dnspython==1.16.0
+eventlet==0.31.0
+greenlet==1.1.0
+html5lib==1.1
+idna==2.10
+requests==2.25.1
+selenium==3.141.0
+six==1.16.0
+soupsieve==2.2.1
+urllib3==1.26.6
+webencodings==0.5.1
